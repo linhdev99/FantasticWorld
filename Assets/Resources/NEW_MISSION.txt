@@ -1,0 +1,8 @@
+[M0 = Kill enemy = 0 = 10 = 0]
+[M1 = Kill enemy in BKU Cave = 0 = 20 = 0]
+[M2 = Kill enemy in Chicken Farm = 0 = 5 = 0]
+[M3 = Teach martial arts for kid = 0 = 10 = 0]
+[M4 = Kill enemy in IceLand = 0 = 30 = 0]
+[M5 = Kill enemy in Mirare Village = 0 = 50 = 0]
+[M6 = Kill enemy in Monster Bridge = 0 = 10 = 0]
+[M7 = Kill Boss in Fimaly City = 0 = 1 = 0]
